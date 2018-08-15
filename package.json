@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-books-mermaid",
+  "description": "综合性的一个插件",
+  "main": "index.js",
+  "version": "1.0.4",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "homepage": "https://github.com/liushilive/gitbook-plugin-books-mermaid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liushilive/gitbook-plugin-books-mermaid.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/liushilive/gitbook-plugin-books-mermaid/issues"
+  },
+  "keywords": [
+    "prism",
+    "mermaid",
+    "math",
+    "latex"
+  ]
+}
